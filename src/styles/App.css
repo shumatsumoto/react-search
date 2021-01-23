@@ -1,0 +1,21 @@
+#card {
+  margin: auto;
+  display: none;
+}
+
+#card.open {
+  display: block;
+}
+
+input[name="search"] {
+  display: block;
+  width: 250px;
+  margin: 20px auto;
+  padding: 5px;
+  border-radius: 4px;
+  border-color: #ccc;
+}
+
+.MuiCardMedia-root {
+  background-size: contain !important;
+}
