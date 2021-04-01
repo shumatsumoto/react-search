@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://reactjs.org/">
-    <img src="https://user-images.githubusercontent.com/11171872/113250162-f7b14000-92fa-11eb-9974-363a3a695d3b.png" height="90">
+    <img src="https://user-images.githubusercontent.com/11171872/113251146-b6ba2b00-92fc-11eb-847a-fc58d7f87239.png" height="90">
   </a>&nbsp;
   <a href="https://www.netlify.com/">
     <img src="https://user-images.githubusercontent.com/11171872/113250304-3810be00-92fb-11eb-8ec9-e4cadef6664a.png" height="90">
