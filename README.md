@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/11171872/113237475-dabc4300-92e1-11eb-9396-2c8968544e43.gif" width="600">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Rails Blog</h1>
 
-## Available Scripts
+<div align="center">
+  <a href="https://railsguides.jp/6_0_release_notes.html">
+    <img src="https://user-images.githubusercontent.com/11171872/113230027-27e4e880-92d3-11eb-8a73-13b4d438c17c.jpg" height="90">
+  </a>&nbsp;
+  <a href="https://semantic-ui.com/">
+    <img src="https://user-images.githubusercontent.com/11171872/113229785-9b3a2a80-92d2-11eb-9667-5cea7839423c.png" height="90">
+  </a>&nbsp;
+  <a href="https://www.heroku.com/">
+    <img src="https://user-images.githubusercontent.com/11171872/113230337-c7a27680-92d3-11eb-9e94-c131dfba8f1d.png" height="90">
+  </a>
+</div>
 
-In the project directory, you can run:
+## :computer: URL
 
-### `yarn start`
+https://......
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :pencil2: Overview
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+I'm using Rails 6 rich text.
+I created a simple SNS application.
 
-### `yarn test`
+## :hammer: Requirement
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- macOS
+- Rails 6.0.3.5
+- [Semantic UI](https://semantic-ui.com/)
 
-### `yarn build`
+## :pushpin: Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Git clone
+```
+$ git clone https://github.com/shumatsumoto/rails-blog.git
+```
+Move to directory
+```
+$ cd rails-blog
+```
+Install the library
+```
+$ bundle install
+```
+Launch a local server
+```
+$ rails s
+```
+Access URL： 
+http://localhost:3000
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :railway_car: Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Article posting
+- Likes
+- Rich text
+- Login / Logout
+- SignUp
 
-### `yarn eject`
+## :green_book: Reference
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [rails6 deviseを使用する](https://mebee.info/2021/03/30/post-27697/)
+- [Railsでいいね機能を実装しよう](https://qiita.com/nojinoji/items/2c66499848d882c31ffa)
+- [[Ruby on Rails 6] Action Textでリッチテキスト機能を導入してみよう!](https://www.web-knowledge-info.com/wp/ruby-on-rails32/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :hatching_chick: Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Github](https://github.com/shumatsumoto)
+- [Qiita](https://qiita.com/ShuMatsumoto)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :credit_card: Licence
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](https://......)
