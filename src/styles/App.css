@@ -1,21 +1,33 @@
+body {
+  background-color: #ddd;
+}
+
 #card {
-  margin: auto;
+  margin: 30px auto 0;
   display: none;
+}
+
+#card a {
+  text-decoration: none;
+  color: #444;
 }
 
 #card.open {
   display: block;
 }
 
-input[name="search"] {
-  display: block;
-  width: 250px;
-  margin: 20px auto;
-  padding: 5px;
-  border-radius: 4px;
-  border-color: #ccc;
+#searchForm {
+  margin: 30px auto 0;
+  max-width: 345px;
+  box-sizing: border-box;
 }
 
 .MuiCardMedia-root {
   background-size: contain !important;
+}
+
+@media screen and (max-width: 480px) {
+  #searchForm {
+    width: 90%;
+  }
 }
