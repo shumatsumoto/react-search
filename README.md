@@ -32,7 +32,8 @@ You can search for an account with the api on github.
 - macOS
 - React 17.0.1
 - TypeScript 4.2.3
-- [Material UI](https://material-ui.com/)
+- Material UI
+- Netlify
 
 ## :pushpin: Usage
 
