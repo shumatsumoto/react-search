@@ -8,6 +8,9 @@
   <a href="https://reactjs.org/">
     <img src="https://user-images.githubusercontent.com/11171872/113251146-b6ba2b00-92fc-11eb-847a-fc58d7f87239.png" height="90">
   </a>&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://user-images.githubusercontent.com/11171872/113466643-6071f700-9478-11eb-9c13-52c84abd80c7.png" height="90">
+  </a>&nbsp;
   <a href="https://www.netlify.com/">
     <img src="https://user-images.githubusercontent.com/11171872/113250304-3810be00-92fb-11eb-8ec9-e4cadef6664a.png" height="90">
   </a>&nbsp;
@@ -28,6 +31,7 @@ You can search for an account with the api on github.
 
 - macOS
 - React 17.0.1
+- TypeScript 4.2.3
 - [Material UI](https://material-ui.com/)
 
 ## :pushpin: Usage
