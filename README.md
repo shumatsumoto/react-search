@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/11171872/113370997-2df4cb00-93a0-11eb-8af9-47733687ce9d.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/11171872/118202199-65bd5b00-b494-11eb-84c9-0c1e81319a54.gif" width="550">
 </div>
 
 <h1 align="center">React Search（Github Account）</h1>
