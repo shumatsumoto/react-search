@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/11171872/118202199-65bd5b00-b494-11eb-84c9-0c1e81319a54.gif" width="550">
+  <img src="https://user-images.githubusercontent.com/11171872/118202199-65bd5b00-b494-11eb-84c9-0c1e81319a54.gif" width="500">
 </div>
 
 <h1 align="center">React Search（Github Account）</h1>
 
 <div align="center">
   <a href="https://reactjs.org/">
-    <img src="https://user-images.githubusercontent.com/11171872/113251146-b6ba2b00-92fc-11eb-847a-fc58d7f87239.png" height="55">
+    <img src="https://user-images.githubusercontent.com/11171872/113251146-b6ba2b00-92fc-11eb-847a-fc58d7f87239.png" height="35">
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/">
-    <img src="https://user-images.githubusercontent.com/11171872/113466643-6071f700-9478-11eb-9c13-52c84abd80c7.png" height="55">
+    <img src="https://user-images.githubusercontent.com/11171872/113466643-6071f700-9478-11eb-9c13-52c84abd80c7.png" height="35">
   </a>&nbsp;
   <a href="https://www.netlify.com/">
-    <img src="https://user-images.githubusercontent.com/11171872/113250304-3810be00-92fb-11eb-8ec9-e4cadef6664a.png" height="55">
+    <img src="https://user-images.githubusercontent.com/11171872/113250304-3810be00-92fb-11eb-8ec9-e4cadef6664a.png" height="35">
   </a>&nbsp;
   <a href="https://material-ui.com/">
-    <img src="https://user-images.githubusercontent.com/11171872/113247805-b159e200-92f6-11eb-86c9-c11d4c5600e7.png" height="55">
+    <img src="https://user-images.githubusercontent.com/11171872/113247805-b159e200-92f6-11eb-86c9-c11d4c5600e7.png" height="35">
   </a>
 </div>
 
