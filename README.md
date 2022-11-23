@@ -25,7 +25,7 @@ https://react-search-shu0328.netlify.app/
 
 ## :pencil2: Overview
 
-You can search for an account with the api on github.
+Search for an account with the api on github.
 
 ## :hammer: Requirement
 
